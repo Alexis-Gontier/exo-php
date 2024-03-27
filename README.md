@@ -1,37 +1,37 @@
 # exo-php
 
 1/ Construire en PHP le triangle suivant :
-
+```
 *
 **
 ***
 ****
 *****
 ******
-
+```
 
             -------------------------------  
             
 2/ Construire en PHP le triangle suivant :
-
+```
 ******
 *****
 ****
 ***
 **
 *
-
+```
             -------------------------------  
 
 3/ Construire en PHP le triangle suivant :
-
+```
 *
 **
 * *
 *  *
 *   *
 ******
-
+```
             -------------------------------  
 
 4/ Ecrire une fonction qui calcule la factorielle d'un nombre.
